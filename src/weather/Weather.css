@@ -1,0 +1,89 @@
+.weather_wrapper {
+
+    max-width: 45%;
+    width: 100%;
+    padding: 2.5%;
+    padding-bottom: 5%;
+    border-radius: 6px 6px;
+}
+.n {
+    display: none;
+}
+
+.back1 {
+    background-image: url('https://www.wildlandtrekking.com/blog/wp-content/uploads/2019/11/mountain-690796-e1574544587895.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.back2 {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHKeb-9Vu7fBEL2xQ0AmudtMzClBEeruKdeA&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.back3 {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTia2XuCCFLxY_YKwQmD6Z0LSiGM_ojA-Sc6A&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.back4 {
+    background-image: url('https://images.unsplash.com/photo-1489515217757-5fd1be406fef?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.weather_title {
+    font-size: 30px;
+    color: white;
+}
+
+.tempBlock {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 45%;
+    width: 100%;
+    margin-top: 3%;
+}
+
+.temp {
+    font-size: 5em;
+    font-weight: bold;
+}
+
+
+.tempParams {
+    display: flex;
+    margin-top: 5%;
+    justify-content: space-between;
+    max-width: 80%;
+    width: 100%;
+}
+
+.param_1 {
+    border-right: 1px solid grey;
+    line-height:45px;
+    padding-right: 10%;
+}
+
+.param_1 > p {
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: white;
+}
+
+.param_2 {
+    border-right: 1px solid grey;
+    line-height:45px;
+    padding-right: 10%;
+}
+
+.param_2 > p {
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: white;
+}

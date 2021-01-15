@@ -1,0 +1,20 @@
+.header_main {
+    width: 88%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.header_title {
+    font-size: 43px;
+    color: white;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    width: 35%;
+    justify-content: space-between;
+}

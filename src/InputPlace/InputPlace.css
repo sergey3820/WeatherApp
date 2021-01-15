@@ -1,0 +1,27 @@
+.inputPlace_wrapper {
+    max-width: 90%;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 1%;
+}
+
+.inputPlace_input {
+    padding: 10px 20px;
+    width: 40%;
+    border-radius: 6px 6px;
+    outline: none;
+    font-size: 20px;
+    border: 1px solid white;
+}
+
+.inputPlace_searchIcon {
+    position: absolute;
+    left: 38.5%;
+    top: 31%;
+}
+
+.search_btn {
+  background: none;
+  border: none;
+}
